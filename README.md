@@ -29,9 +29,7 @@ I love learning, making fun and chaotic projects, and archiving retro games and 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![SteamDeck](https://img.shields.io/badge/Steam_Deck-1A1A1A?style=flat&logo=steam&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)   
 
 ---
 
@@ -42,5 +40,3 @@ I love learning, making fun and chaotic projects, and archiving retro games and 
 
 💬 **My links**  
 📫 Email: [devbydani@gmail.com](mailto:devbydani@gmail.com)  
-🐱 GitHub: [github.com/builtbydani](https://github.com/builtbydani)
-
