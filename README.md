@@ -1,8 +1,8 @@
 # Hey, I’m Dani 💻✨
 Welcome to my github!
 
-I'm a non-binary dev building with JavaScript, Rust, Python, and pixels.  
-I love learning, making fun and chaotic projects, and archiving retro games and consoles like a true tech witch.
+I'm a dev building with JavaScript, Rust, Python, and pixels.  
+I love learning, making fun and chaotic projects, and archiving retro games and consoles.
 
 ---
 
