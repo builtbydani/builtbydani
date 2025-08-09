@@ -8,7 +8,7 @@ I love learning, making fun and chaotic projects, and archiving retro games and 
 
 🛠️ **Projects I’m working on**:
 - 🔗 [builtbydani.dev](https://builtbydani.dev) – my personal site & playground  
-- 🎮 PKPlaza – a Pokémon ROM launcher that feels like Steam  
+- 🎮 DaniEngine – a Rust engine for software development  
 - 🧪 Dani-Ball – a fun physics sandbox toy, inspired by the classic danball.jp  
 - 👻 Pokémon Phantom – an original ghost/fairy SoulSilver ROM hack  
 
