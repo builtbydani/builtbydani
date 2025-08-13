@@ -10,7 +10,7 @@ I love learning, making fun and chaotic projects, and archiving retro games and 
 - 🔗 [builtbydani.dev](https://builtbydani.dev) – my personal site & playground  
 - 🎮 DaniEngine – a Rust engine for software development  
 - 🧪 Dani-Ball – a fun physics sandbox toy, inspired by the classic danball.jp  
-- 👻 Pokémon Phantom – an original ghost/fairy SoulSilver ROM hack  
+- 👻 VIsualio - an audio visualizer built for the browser in React 
 
 ---
 
