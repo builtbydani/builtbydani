@@ -9,8 +9,8 @@ I love learning, making fun and chaotic projects, and archiving retro games and 
 🛠️ **Projects I’m working on**:
 - 🔗 [builtbydani.dev](https://builtbydani.dev) – my personal site & playground  
 - 🎮 DaniEngine – a Rust engine for software development  
-- 🧪 Dani-Ball – a fun physics sandbox toy, inspired by the classic danball.jp  
-- 👻 VIsualio - an audio visualizer built for the browser in React 
+- 🧪 Dani-Ball v2 – a fun physics sandbox toy, inspired by the classic danball.jp  
+- 👻 Danigatchi - A fun CLI to track git activity built with Rust 
 
 ---
 
