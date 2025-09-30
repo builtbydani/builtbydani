@@ -1,16 +1,16 @@
 # Hey, I’m Dani 💻✨
 Welcome to my github!
 
-I'm a dev building with JavaScript, Rust, Python, and pixels.  
-I love learning, making fun and chaotic projects, and archiving retro games and consoles.
+I'm a full-stack dev building with Rust, JavaScript, and Python - pastel & pixels <3
+I love learning, making fun/cute projects, and building tools that help other devs.
 
 ---
 
 🛠️ **Projects I’m working on**:
-- 🔗 [builtbydani.dev](https://builtbydani.dev) – my personal site & playground  
-- 🎮 SyntaxSprint – a Flutter app for software developers - practice syntax across langs  
-- 🧪 Dani-Ball v2 – a fun physics sandbox toy, inspired by the classic danball.jp  
-- 👻 Danigatchi - A fun CLI to track git activity built with Rust 
+- 🔗 sugar_server - A server to host web pages and mini games - a "mini homelab"
+- 🎮 pkm_plaza - A launcher for all your pocket monster roms, with emulators baked in
+- 🎶 audiio - An audio engine for Rust, designed for building plugins/vst
+- 👻 danigatchi - A cute CLI to track git activity, now with UI component
 
 ---
 
