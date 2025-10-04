@@ -8,7 +8,7 @@ I love learning, making fun/cute projects, and building tools that help other de
 
 🛠️ **Projects I’m working on**:
 - 🔗 gbae - A pastel themed, modern GBA emulator
-- 🎮 pkm_plaza - A launcher for all your pocket monster roms, with emulators baked in
+- 🎮 typeX - A type-chart for all your pocket monster needs, with team building and analysis built in
 - 🎶 audiio - An audio engine for Rust, designed for building plugins/vst
 - 👻 danigatchi - A cute CLI to track git activity, now with UI component
 
