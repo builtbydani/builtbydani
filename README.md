@@ -1,7 +1,7 @@
 # Hey, I’m Dani 💻✨
 Welcome to my github!
 
-I'm a full-stack dev building with Rust, JavaScript, and Python - pastel & pixels <3
+I'm a full-stack dev building with Flutter, JavaScript, and Python - pastel & pixels <3
 I love learning, making fun/cute projects, and building tools that help other devs.
 
 ---
