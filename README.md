@@ -2,7 +2,9 @@
 Welcome to my github!
 
 I'm a full-stack dev obsessed with graphics. Building with C++, OpenGL, and Flutter
+
 pastel & pixels <3
+
 I love learning, making fun/cute projects, and building tools that help other devs.
 
 ---
